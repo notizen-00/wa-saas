@@ -1,0 +1,10 @@
+<html>
+    <title>
+    </title>
+    <body>
+        Test
+        {{
+            dd($member);
+        }}
+    </body>
+</html>
